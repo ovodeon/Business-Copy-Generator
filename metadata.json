@@ -1,0 +1,7 @@
+{
+  "name": "Business Copy Generator",
+  "description": "Generate social media posts, Google Business Profile updates, and SEO keywords for your business using Gemini 3 Flash.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
